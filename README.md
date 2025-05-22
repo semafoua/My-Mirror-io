@@ -1,0 +1,3 @@
+# MyMirror.io
+## About MyMirror.io
+MyMirror.io is an AI-face shape analyer that gives you style recommendations based on your face shape. This is a summer passion project to get started in computer vision. It's inspired by stylesense.io.
