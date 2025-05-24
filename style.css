@@ -1,0 +1,21 @@
+body {
+  margin: 0 auto;
+}
+
+#intro-text *{
+    text-align: center;
+}
+
+.video-container {
+  width: 50%;
+  height: auto;
+  /* border: solid red 1px; */
+
+  margin: auto;
+}
+
+.video-container * {
+  display: block;
+  border-radius: 2rem;
+  margin: 0 auto;
+}
